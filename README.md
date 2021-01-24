@@ -3,7 +3,7 @@ API to change image format + extra opertaions.
 
 
 ## The Project
-This is my first API. I've done it in order to know a bit better how they wotkr, get used to the *get, post, ...* requestes. 
+This is my first API. I've done it in order to know a bit better how they wotkr, get used to the *get, post, ...* requestes. \
 I have done it in Python using Flask. The API will take a given file (an image) in one of the supoorted formats, and will converted to the new desired format along with one of the other extra operations available.
 
 ### Functioning
@@ -14,6 +14,16 @@ The user provide a file name of the image to convert. The image provided must ex
 pip install -r requirements.txt
 ```
 
+## Opertaions
+Following are the formarts to convert to/from, and the extra opertaion:\
+* **Formats**: 
+  * *.png, .jpeg, .bmp, .webp*
+* **Operations**:
+  * *None*: Any other operation will be perfomed.
+  * *BW*: Turn the image to gray scale.
+  * *Canny*: Filter the image with a canny filter to obtain the edges.
+  * *Bin*: Binarize the image.
+  * *rot180*: Rotate the image 180º.
 ## Contact
 
 Iker Diaz Cilleruelo - iker.diaz01@estudiant.upf.edu
