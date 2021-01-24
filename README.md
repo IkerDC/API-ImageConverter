@@ -1,2 +1,2 @@
-# RLE_encoderAPI
-Binary images RLE encoder
+# API-ImageConverter
+Change image format + extra opertaions.
