@@ -28,4 +28,4 @@ The following are the formarts to convert to/from, and the extra opertaion are:\
 
 Iker Diaz Cilleruelo - ikerdiaz1312@gmail.com
 
-Project Link: [https://github.com/IkerDC/SCAV-P2](https://github.com/IkerDC/SCAV-P2)
+Project Link: [https://github.com/IkerDC/API-ImageConverter](https://github.com/IkerDC/API-ImageConverter)
